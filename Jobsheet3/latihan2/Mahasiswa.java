@@ -1,4 +1,4 @@
-package Jobsheet3.ArrayBalok.latihan2;
+package Jobsheet3.latihan2;
 
 public class Mahasiswa {
     public String nim;
